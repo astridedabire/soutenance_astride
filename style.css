@@ -1,0 +1,19 @@
+.navimage{
+    background: url(im.jpg);
+   
+    background-size: cover;
+
+}
+.titre1{
+    color: rgb(173, 15, 15);
+    text-align: center;
+}
+.titre{
+    color: rgb(173, 15, 15);
+}
+.fw-bold{
+    color: rgb(173, 15, 15);
+}
+
+
+
